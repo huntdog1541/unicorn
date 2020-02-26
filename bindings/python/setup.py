@@ -254,7 +254,7 @@ def join_all(src, files):
 setup(
     provides=['unicorn'],
     packages=['unicorn'],
-    name='unicorn',
+    name='unicorn-local',
     version=VERSION,
     author='Nguyen Anh Quynh',
     author_email='aquynh@gmail.com',
